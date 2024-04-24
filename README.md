@@ -1,4 +1,4 @@
-# Batch No - B7
+
 
 # College Automation System with simple chatbot 
 
